@@ -29,6 +29,7 @@ dependencies = [
     "python-dotenv",
     "PyYAML",
     "spacy>=3.5.0",
+    "click>=8.1.0",
     "openai>=2.9.0",
     "pgvector>=0.4.2",
     "scikit-learn>=1.5.0",

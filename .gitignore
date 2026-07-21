@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 .venv/
 .env
+.devcontainer/vocab-data/
 .vscode/
 .idea/
 logs/
